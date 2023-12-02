@@ -6,7 +6,7 @@ ignore:
     - '*':
         reason: 'As open source org, we have no issues with licenses'
         created: 2022-11-11T10:52:42.426Z
-  'snyking:lic:npm:web3-shh:LGPL-3.0':
+  'snyk:lic:npm:web3-shh:LGPL-3.0':
     - '*':
         reason: 'As open source org, we have no issues with licenses'
         created: 2022-11-11T10:53:37.213Z
